@@ -22,3 +22,5 @@ This landing page uses:
 You can extend this page later with CSS styling, more layout structure (like <section>), or real eCommerce features.
 
 see product.png for template
+
+Photo by Eprism Studio: https://www.pexels.com/photo/close-up-of-red-object-over-white-background-335257/
